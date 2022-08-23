@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.bg-img{
+    background:url("../images/pexels-elijah-o\'donnell-3473569.jpg");
+    background-size: cover;
+    height:100vh;
+    background-position: center;
+}
